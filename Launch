@@ -1,1 +1,14 @@
-{"add_data":["archivos_no_actualizar":["macro.txt","DATA\\svol.dat"],"archivos_no_actualizar_rev_full":[],"direcciones":{"AUDITION":4194304,"KILL_NOTICE":43168144,"SHADER_SYSTEM":10948080},"giftpin":{"pin":"???? ???? ????","serial":"???? ???? ??????"}}
+{
+  "add_data": [],
+  "archivos_no_actualizar": ["macro.txt", "DATA\\svol.dat"],
+  "archivos_no_actualizar_rev_full": [],
+  "direcciones": {
+    "AUDITION": 4194304,
+    "KILL_NOTICE": 43168144,
+    "SHADER_SYSTEM": 10948080
+  },
+  "giftpin": {
+    "pin": "???? ???? ????",
+    "serial": "???? ???? ??????"
+  }
+}
